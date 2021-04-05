@@ -1,2 +1,2 @@
 # social-network-analysis-with-python
-in this i learned various types of things
+in this week i learned to use the networx library to creates various types of graphs, add nodes and edges to them. And plot those graphs with the help of pyplot from matplotlib. The code is all over the place because this is just a saved session from the ipython.

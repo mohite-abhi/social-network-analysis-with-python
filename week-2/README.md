@@ -1,0 +1,4 @@
+- ingredient network
+	- communities are found in networks, with strong connection among themselves
+- synonymy network
+	- if we connect all the words in a dictionary which are synonyms to each other then we will find that the graph is connected, love is synonym to a word .. which is synonym to another word .. which is synonym to hate
